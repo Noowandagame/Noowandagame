@@ -143,14 +143,25 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e77ad8ff389e782f",
   "lastOpenFiles": [
-    "noowandagame.github.io - 바로 가기.lnk",
-    "docs/_docs/03-installation.md",
+    "_images/Snagglespear.png",
     "_posts/2024-05-30-my-first-post.md.md",
-    "CHANGELOG.md"
+    "_posts/2024-05-31-first.md",
+    "_images",
+    "Snagglespear.png",
+    "docs/_posts/2009-10-06-edge-case-broken-highlighting.md",
+    "docs/_posts/2009-08-06-edge-case-no-body-content.md",
+    "docs/_posts/2009-06-01-edge-case-many-tags.md",
+    "screenshot.png",
+    "screenshot-layouts.png",
+    "README.md",
+    "CHANGELOG.md",
+    "noowandagame.github.io - 바로 가기.lnk",
+    "docs/_docs/03-installation.md"
   ]
 }
