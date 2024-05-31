@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-30-my-first-post.md.md",
+                "file": "_posts/2024-05-31-first.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-30-my-first-post.md.md",
+                "file": "_posts/2024-05-31-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-30-my-first-post.md.md",
+                "file": "_posts/2024-05-31-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-30-my-first-post.md.md"
+                "file": "_posts/2024-05-31-first.md"
               }
             }
           }
@@ -149,10 +149,22 @@
   },
   "active": "e77ad8ff389e782f",
   "lastOpenFiles": [
-    "_images/Snagglespear.png",
     "_posts/2024-05-30-my-first-post.md.md",
     "_posts/2024-05-31-first.md",
-    "_images",
+    "_site/first/index.html",
+    "_site/first",
+    "_site/assets/js/lunr/lunr.min.js",
+    "_site/assets/js/lunr/lunr.js",
+    "_site/assets/js/lunr/lunr-store.js",
+    "_site/assets/js/lunr/lunr-gr.js",
+    "_site/assets/js/lunr/lunr-en.js",
+    "_site/assets/js/main.min.js.map",
+    "_site/assets/js/main.min.js",
+    "_site/assets/js/lunr",
+    "_site/screenshot.png",
+    "_site/screenshot-layouts.png",
+    "_site/my-first-post.md",
+    "_images/Snagglespear.png",
     "Snagglespear.png",
     "docs/_posts/2009-10-06-edge-case-broken-highlighting.md",
     "docs/_posts/2009-08-06-edge-case-no-body-content.md",
@@ -161,7 +173,6 @@
     "screenshot-layouts.png",
     "README.md",
     "CHANGELOG.md",
-    "noowandagame.github.io - 바로 가기.lnk",
     "docs/_docs/03-installation.md"
   ]
 }
