@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-31-first.md",
+                "file": "_posts/2024-05-30-my-first-post.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-31-first.md",
+                "file": "_posts/2024-05-30-my-first-post.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-31-first.md",
+                "file": "_posts/2024-05-30-my-first-post.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-31-first.md"
+                "file": "_posts/2024-05-30-my-first-post.md.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "e77ad8ff389e782f",
   "lastOpenFiles": [
+    "_posts/2024-05-31-first.md",
+    "_posts/2024-05-30-my-first-post.md.md",
     "_site/_pages/tag-archive.md",
     "_site/_pages",
     "_pages/tag-archive.md",
@@ -160,8 +162,6 @@
     "_site/_pages/category-archive.md",
     "_pages/category-archive.md",
     "_pages",
-    "_posts/2024-05-30-my-first-post.md.md",
-    "_posts/2024-05-31-first.md",
     "_site/first/index.html",
     "_site/first",
     "_site/assets/js/lunr/lunr.min.js",
