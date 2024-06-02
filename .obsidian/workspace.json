@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-05-30-my-first-post.md.md",
+                "file": "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-05-30-my-first-post.md.md",
+                "file": "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-05-30-my-first-post.md.md",
+                "file": "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-05-30-my-first-post.md.md"
+                "file": "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "e77ad8ff389e782f",
   "lastOpenFiles": [
-    "_posts/2024-05-31-first.md",
     "_posts/2024-05-30-my-first-post.md.md",
+    "Template/imagewithcaption.md.md",
+    "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md",
+    "Template/Template.md",
+    "_images/격노의 천둥_사르코스_듀로타_오크_트롤_룬_공략.webp",
+    "().md",
+    "_posts/2024-05-31-first.md",
+    "Template",
     "_site/_pages/tag-archive.md",
     "_site/_pages",
     "_pages/tag-archive.md",
@@ -164,7 +170,6 @@
     "_pages",
     "_site/first/index.html",
     "_site/first",
-    "_site/assets/js/lunr/lunr.min.js",
     "_site/screenshot.png",
     "_site/screenshot-layouts.png",
     "_site/my-first-post.md",
