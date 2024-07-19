@@ -1,3 +1,7 @@
 {
-  "attachmentFolderPath": "_images"
+  "attachmentFolderPath": "_images",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "promptDelete": true
 }
