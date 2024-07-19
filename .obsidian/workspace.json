@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md.md",
+                "file": "_posts/2024-05-31-first.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md.md",
+                "file": "_posts/2024-05-31-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md.md",
+                "file": "_posts/2024-05-31-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md.md"
+                "file": "_posts/2024-05-31-first.md"
               }
             }
           }
@@ -172,18 +172,18 @@
   },
   "active": "56ae267fbbff6980",
   "lastOpenFiles": [
+    "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md",
     "_posts/2024-05-31-first.md",
-    "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md.md",
+    "_images/월드 오브 워크래프트 내부전쟁 전사 학살자 Slayer 영웅 전문화 리뷰 썸네일.png",
+    "_posts/2024-05-30-my-first-post.md.md",
     "_images/test.png",
     "_images/test 1.png",
     "_images/격노의 천둥_사르코스_듀로타_오크_트롤_룬_공략 1.jpg",
     "_images/오그리마 지도.png",
     "_images/격노의_천둥_사르코스_듀로타_오크_트롤_룬_공략.webp",
-    "_posts/2024-05-30-my-first-post.md.md",
     "_images/격노의 천둥_사르코스_듀로타_오크_트롤_룬_공략.jpg",
     "_site/월드/오브/워크래프트/클래식/Durota-Warrior-discovery-Rune.md/index.html",
     "_site/월드/오브/워크래프트/클래식/Durota-Warrior-discovery-Rune.md",
-    "_posts/2024-06-02-Durota-Warrior-discovery-Rune.md",
     "_site/월드/오브/워크래프트/클래식/Durota-Warrior-discovery-Rune/index.html",
     "_site/월드/오브/워크래프트/클래식/Durota-Warrior-discovery-Rune",
     "_site/월드/오브/워크래프트/클래식",
@@ -206,7 +206,6 @@
     "_site/screenshot-layouts.png",
     "_site/my-first-post.md",
     "_images/Snagglespear.png",
-    "Snagglespear.png",
     "docs/_posts/2009-10-06-edge-case-broken-highlighting.md",
     "docs/_posts/2009-08-06-edge-case-no-body-content.md",
     "docs/_posts/2009-06-01-edge-case-many-tags.md",
